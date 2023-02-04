@@ -4,7 +4,7 @@
   "description": "To run  ```bash node -v  nvm install 18.14.0 nvm use 18.14.0 ndoe index.js <or> node . ```",
   "main": "index.js",
   "scripts": {
-    "start": "node .",
+    "start": "node expLear.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
